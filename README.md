@@ -10,7 +10,7 @@
 
 <br />
 
-### 📕 Latest projects
+### Latest projects
 
 - [Web scrapper in Python](https://github.com/nogueivi/web-scrapper)
 - [Smart contracts using Solidity](https://github.com/nogueivi/smart-contracts)
